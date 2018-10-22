@@ -11,7 +11,7 @@
         <module>persistence</module>
         <module>web</module>
     </modules>
-    <packaging>pom</packaging>
+    <packaging>war</packaging>
 
     <name>springboot-multiple-maven-modules</name>
     <description>Demo project for Spring Boot with Maven modules</description>

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="domain" />
         <module name="persistence" />
+        <module name="spring-multiple-maven-modules" />
         <module name="web" />
       </profile>
     </annotationProcessing>

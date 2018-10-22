@@ -19,6 +19,6 @@ public class HotelController {
     public List<Hotel> getHotels() {
         List<Hotel> hotels = this.hotelRepository.findAll();
 
-        return hotels;
+         return hotels;
     }
 }
